@@ -1,0 +1,170 @@
+
+
+
+    * {
+        margin: auto;
+        font-family: 'Montserrat', sans-serif;
+    
+      }
+
+header{
+    background-color: #ef057e;
+  
+}
+
+
+
+.navigation{
+    display: flex;
+    padding-bottom:5px;
+    padding-top:40px;
+    padding-left: 10px;
+     
+}
+.logo{
+    width: 200px;
+    margin-left: 100px;
+}
+.menu-itens{
+
+    display:inline-block;
+    margin-right: 100px;
+   
+}
+  
+ .menu-itens li{
+    color: white;
+    list-style: none;
+    font-weight:bold;
+    font-size:15px;
+    display: inline-block;
+    margin-left: 200px;
+    margin: 20px;
+    
+  
+      
+  } 
+  
+
+.button-itens{
+    border: solid white;
+    border-radius: 10px;
+    /* color: white;    */
+    padding:3px;
+    background-color: white;
+    font-weight: 20px;
+    margin-right: 200px;
+    
+
+
+} 
+.button-itens .pt{
+  font-weight: 100px;
+  background-color: white;
+
+}
+
+.button-itens .ing{
+    font-weight: 100px;
+    background-color:white;
+ 
+  
+  }
+  
+
+
+.button-itens button{
+    color:#ef057e;
+    font-weight: bolder;
+    border: none;
+    background-color: white;
+    
+}
+
+ p{
+
+    font-size:50px;
+    color: white;
+    font-weight: bolder; 
+    display:flex;
+    margin-left: 200px;
+    margin-top: 50px;
+
+    
+}
+ .principal{
+     margin-top: 120px;
+     display: flex; 
+
+ }
+  
+.imgBanner{
+    width:590px;
+    margin-right:270px;
+    display: flex;
+
+
+
+} 
+
+   /* -------ACESSOBIO--------*/
+ .solucoes{
+    padding-top:60px;
+    background-color:#f6f9fc;
+    font-size: 100px;
+   
+
+
+      
+
+}
+
+
+.solucoes h2{
+    color: #9093a1;
+    font-size:10px;
+    text-align: center;
+    font-size: 45px;
+    margin-left: 400px;
+    font-weight: 900;
+  
+  
+
+}
+.solucoes p{
+   
+    font-size: 23px;
+    color: #9093A1;
+    font-weight: normal;
+    margin-bottom: 80px;
+
+}
+
+.solucoes .bio{
+    color: #2980ff;
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 400px;
+    margin-bottom: 50px;
+
+}
+.acessoBio .p{
+    color: #2980ff;
+    font-size: 40px;
+    color: #9093A1;
+    padding: 200px;
+    padding-right: 309px;
+    margin-left: 10px;
+    display: flex;
+
+}
+.acessoBio .button{
+    background-color: #2980ff;
+    padding: 40px;
+
+}
+
+
+
+
+
