@@ -102,68 +102,67 @@ header{
     width:590px;
     margin-right:270px;
     display: flex;
-
-
-
 } 
 
    /* -------ACESSOBIO--------*/
  .solucoes{
-    padding-top:60px;
+    padding-top:80px;
     background-color:#f6f9fc;
-    font-size: 100px;
-   
 
-
-      
-
-}
+ 
+  }
 
 
 .solucoes h2{
     color: #9093a1;
-    font-size:10px;
+    font-size: 35px;
+    font-weight:900px;
     text-align: center;
-    font-size: 45px;
-    margin-left: 400px;
-    font-weight: 900;
-  
-  
+ 
 
 }
 .solucoes p{
    
-    font-size: 23px;
+    font-size: 18px;
     color: #9093A1;
     font-weight: normal;
-    margin-bottom: 80px;
+    margin-bottom: 90px;
+    /* margin-right: 200px; */
+
 
 }
 
 .solucoes .bio{
     color: #2980ff;
-    font-size: 40px;
+    font-size: 35px;
     font-weight: bold;
-    margin-left: 400px;
+    margin-left:200px;
     margin-bottom: 50px;
+
+
+}
+.acessoBio{
+    justify-content: space-between;
+    display: flex;
+    margin-right:200px;
+    scroll-margin-top: 20px;
 
 }
 .acessoBio .p{
-    color: #2980ff;
     font-size: 40px;
     color: #9093A1;
     padding: 200px;
     padding-right: 309px;
     margin-left: 10px;
-    display: flex;
-
-}
-.acessoBio .button{
-    background-color: #2980ff;
-    padding: 40px;
-
+    word-spacing: 4px;
+    line-height: 35px;
+    padding-right: 20px;
 }
 
+
+.acessoBio .imgBio .imgAcessoBio{
+    width:500px;
+}
 
 
 
