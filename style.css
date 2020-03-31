@@ -117,6 +117,7 @@ header{
     font-size: 35px;
     font-weight:900px;
     text-align: center;
+    margin-top: 30px;
  }
 .solucoes p{
     font-size: 18px;
@@ -264,6 +265,54 @@ header{
     margin-top:-60px;
       
 }
+
+
+/* -------QUEM CONFIA--------*/
+.quemConfia{
+    margin-left: 200px;
+
+}
+.quemConfia1{
+  
+    justify-content: space-between;
+    display: flex;
+    margin-right:200px;
+    margin-top: 90px;
+    padding-top:10px;
+
+    
+}
+
+.quemConfia h2{
+    color: #9093a1;
+    font-size: 35px;
+    font-weight:900px;
+    text-align: center;
+    margin-top: 100px;
+    
+}
+ .imgCircle{
+    border-radius: 50%;
+    width:210px;
+    margin-bottom: 200px;
+  
+   
+}
+.quemConfia .comentario{
+    color: #9093a1;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 350px;
+    margin-left: 110px;
+    word-spacing: 10px;
+    font-weight: normal;
+    text-align: justify;
+
+
+  
+
+}
+
 
 
 
